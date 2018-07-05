@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-05T15:58:57</date>
+  <millis>1530824337705</millis>
+  <sequence>4</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>co.com.belatrix.logger.LoggerFile</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test - Message Info </message>
+</record>
+<record>
+  <date>2018-07-05T15:58:57</date>
+  <millis>1530824337901</millis>
+  <sequence>5</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>co.com.belatrix.logger.LoggerFile</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test Multiple - Message Info!</message>
+</record>
+<record>
+  <date>2018-07-05T15:58:57</date>
+  <millis>1530824337932</millis>
+  <sequence>6</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>WARNING</level>
+  <class>co.com.belatrix.logger.LoggerFile</class>
+  <method>addWarning</method>
+  <thread>1</thread>
+  <message>Test Multiple - Message Warning!</message>
+</record>
+</log>
